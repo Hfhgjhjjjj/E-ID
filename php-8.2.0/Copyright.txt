@@ -1,0 +1,7 @@
+Copyright © 2024 Rajdeep Chatterjee. All rights reserved.
+
+This is a custom build of PHP created by Rajdeep Chatterjee. 
+
+All code within this project is protected by copyright law. Unauthorized reproduction, distribution, or use of this code, in whole or in part, is strictly prohibited without prior written permission from the copyright holder.
+
+For permissions, contact: rc9775295@gmail.com
